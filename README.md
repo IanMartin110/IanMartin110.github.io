@@ -1,5 +1,5 @@
 # Ian Martin's Page
-Hi :wave: , I am **Ian Martin** and am a current freshman at the University of Colorado Boulder studying computer science.
+Hi, I am **Ian Martin** and am a current freshman at the University of Colorado Boulder studying computer science.
 I enjoy programming and hope to someday develop apps or games.
 On GitHub so far I have created:
 
