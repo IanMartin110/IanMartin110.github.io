@@ -9,3 +9,4 @@ On GitHub so far I have created:
 2.[CS as A Field of Work and Study Project](https://github.com/HaydenLeovy/comp-sci-field-of-work-study)
   - A group repository where we created a chose your own adventure story program
 
+![Untitled design (1)](https://github.com/user-attachments/assets/7896bf5d-0148-4101-952a-8efa89ffcc14)
